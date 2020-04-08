@@ -40,4 +40,4 @@ There's a lot more background information in this blog post.
 Our video :
 
 An End to end Rasa Chatbot making tutorials series.
-This project is still in active development and you can watch live-coding on the Rasa YouTube channel.
+This project is still in active development and you can watch coding on the (Rasa YouTube channel)[https://www.youtube.com/watch?v=BIvte_9Jx4E&list=PLje5MF3ukgqhQN9H7J_WgCv2XjEQtPR3e&index=4&t=0s].
