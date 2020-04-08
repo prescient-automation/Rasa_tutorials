@@ -1,0 +1,24 @@
+intents:
+- greet
+- goodbye
+- bot_challenge
+- search
+entities:
+- document
+templates:
+  utter_greet:
+  - text: Hey! How are you?
+  utter_question:
+  - text: What document are you looking for?
+  utter_goodbye:
+  - text: Bye
+  utter_answer:
+  - text: Okay Let me help you with that...
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+actions:
+- utter_greet
+- utter_question
+- utter_answer
+- utter_goodbye
+- utter_iamabot

@@ -1,0 +1,117 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent: search
+- i m looking for [data science](document) document.
+- i m looking for [Big data Class](document) ppt
+- [big data](document)
+- where can i find [Big Data Class](document) ppt
+- send me file link for [getting Started](document)
+- send me file link to [big data](document)
+- send me ppt for [big data](document)
+- [getting started](document)
+- [big data](document)
+- [big data classes](document)
+- tell me location for [getting started](document) document
+- can i know where [getting started](document) is?
+- i want to know [Big Data Class](document) ppt?
+- [factlabs](document)
+- [Factlabs_1211](document)
+- [Factlabs Marketing_Advertising](document)
+- i m looking for [Factlabs Marketing_Advertising](document)
+- where can i find [Factlabs Marketing_Advertising](document)
+- [factlabs Marketing_Advertising](document)
+- [Factlabs Marketing](document)
+- [hadoop](document)
+- i m looking for [hadoop](document)
+- where can i find [hadoop](document)
+- [Hadoop](document)
+- [HADOOP](document)
+- [apache](document)
+- i m looking for [apache](document)
+- where can i find [apache](document)
+- [Apache](document)
+- [APACHE](document)
+- [curriculam](document)
+- i m looking for [curriculam](document)
+- where can i find [curriculam](document)
+- [Curriculam](document)
+- [CURRICULAM](document)
+- [kafka](document) 
+- i m looking for [kafka](document)
+- where can i find [kafka](document)
+- [KAFKA](document)
+- [Kafka](document)
+- [interview](document)
+- i m looking for [interview](document)
+- where can i find [interview](document)
+- [Interview](document)
+- [INTERVIEW](document)
+- [Spark](document)
+- i m looking for [Spark](document)
+- where can i find [Spark](document)
+- [spark](document)
+- [SPARK](document)
+- [Hive](document)
+- i m looking for [Hive](document)
+- where can i find [Hive](document)
+- [hive](document)
+- [HIVE](document)
+- [HDFS](document)
+- i m looking for [HDFS](document)
+- where can i find [HDFS](document)
+- [hdfs](document)
+- [Hdfs](document)
+- [Glossary](document)
+- i m looking for [Glossary](document)
+- where can i find [Glossary](document)
+- [glossary](document)
+- [Data Science](document)
+- i m looking for [Data Science](document)
+- where can i find [Data Science](document)
+- [data science](document)
+- [Data science](document)
+- [DATA SCIENCE](document)
+- [ooz](document)
+- i m looking for [ooz](document) 
+- where can i find [ooz](document)
+- [OOZ](document)
+- [Ooz](document)
+- [final](document)
+- i m looking for [final](document)
+- where can i find [final](document)
+- [Final](document)
+- [FINAL](document)
+- [job](document)
+- i m looking for [job](document)
+- where can i find [job](document)
+- [Job](document)
+- [JOB](document)
+- [proposal](document)
+- i m looking for [proposal](document)
+- where can i find [proposal](document)
+- [Proposal](document)
+- [Proposal](document)
+- [hive optimizations](document)
+- i m looking for [hive optimizations](document)
+- where can i find [hive optimizations](document)
+- [Hive Optimization](document)
+
+
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
